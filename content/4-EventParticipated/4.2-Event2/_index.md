@@ -1,158 +1,151 @@
 ---
 title: "Event 2"
-date: 2026-05-09
-weight: 2
+date: 2026-05-23
+weight: 1
 chapter: false
-pre: " <b> 4.2. </b> "
+pre: " <b> 4.1. </b> "
 ---
 
-# Summary Report: "How to Make Learning Addictive Like Social Media or Games"
-
-![How to Make Learning Addictive Like Social Media or Games](/fcj-workshop-duongtin/images/4-EventParticipated/event2.jpg)
+# Summary Report: "FCAJ Community Day"
 
 ## Purpose of the Event
 
-Explain why the brain often prefers social media or games over studying, and how dopamine, curiosity, and quick rewards shape motivation.
+Provide attendees with an overview of current technology trends, especially artificial intelligence, cloud computing, large language models, multi-agent systems, and real-world product development.
 
-Offer practical strategies for building better study habits by using small rewards, lowering procrastination, applying loss aversion, and repeating learning as a daily routine.
+Help participants understand how AI and Cloud are being applied in learning, software development, business operations, system optimization, and enterprise decision-making.
 
-Show how to write better AI prompts by including role, instruction, context, output format, examples, and constraints.
+Introduce practical approaches to using AI effectively, including providing better context, building AI assistants, optimizing systems with Amazon CloudFront, and understanding how LLMs behave in production environments.
 
-Share a realistic mindset for IT work, including the value of strong fundamentals, asking "why", integrity, teamwork, and long-term self-growth.
-
-Introduce BMX, a structured AI-assisted software development method that splits work into clear roles and smaller tasks to improve planning, control, and quality.
+Create an opportunity for students, developers, and technology enthusiasts to learn from experienced speakers, connect with the community, and gain motivation to build practical technology products.
 
 ## General Information
 
-* **Event name:** Learning Motivation and AI Productivity Sharing Session
-* **Time:** 09:00 - 12:00, May 9, 2026
+* **Event name:** FCAJ Community Day
+* **Time:** 09:00, May 23, 2026
+* **Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 * **Role:** Attendee
-* **Main topics:** Learning motivation, dopamine habits, prompt engineering, AI usage, IT mindset, and AI-assisted software development
 
-## Main Speakers / Presenters
+## Speakers / Main Presenters
 
-* **Main speaker** - Shared ideas about learning motivation, dopamine, and habit formation
-* **Main speaker** - Shared content about prompt engineering and AI interaction
-* **Main speaker** - Shared views on IT mindset, foundation knowledge, and career expectations
-* **Speaker Thao** - Introduced the BMX method for AI-assisted software development
+* **Tinh Truong** – Platform Engineer, GoTymeX
+* **Pham Ng Hai Anh** – G-AsiaPacific Vietnam, AWS Community Builder
+* **Nguyen Tuan Thinh** – DevOps Engineer, First Cloud AI Journey
+* **Team VIB** – Team behind UTMorpho at LotusHacks
+* **Duc Dao** – Solution Architect, Cloud Kinetics
+* **Vy Lam** – Senior Business Systems Analyst, VPBank
 
 ## Key Topics & Learnings
 
-### Why the Brain Prefers Social Media or Games Over Studying
+### Context Engineering for Better AI Usage
 
-The session opened with the central idea of making learning as engaging as social media or online games. The speaker pointed out that many people struggle not because they are lazy, but because their brains are not getting the right kind of motivation.
+One of the main messages from the event was that AI performance depends strongly on the quality of context provided by the user. In many cases, AI does not give useful answers because the prompt is too general, lacks background information, or does not clearly describe the expected output.
 
-Social platforms and games deliver instant feedback, fast rewards, and constant curiosity about what happens next. Studying, on the other hand, usually produces results slowly and demands longer focus. Because of that, the brain naturally leans toward the activity that feels easier and more rewarding right away.
+A good request should include the goal, relevant data, constraints, output format, and evaluation criteria. When the context is clear, AI can generate answers that are more accurate, relevant, and easier to apply in real tasks.
 
-The talk also explained that dopamine is closely tied to the anticipation of reward. In other words, motivation can improve when the brain expects something positive soon, not only when the final reward arrives.
+This session also introduced the idea of a **Second AI Brain**, where AI is not only used for one-time answers but can also support long-term knowledge organization, document analysis, note-taking, and personal learning systems.
 
-### Small Rewards and Habit Building
+### Friendly AI Assistant with Amazon Quick
 
-One of the most useful ideas in the session was the use of small rewards to keep the brain interested in studying. The speaker suggested breaking learning into short sessions and giving each completed session a small feeling of reward or surprise.
+The session about Amazon Quick showed how AI assistants can support data analysis, workflow automation, report creation, and collaboration. AI is no longer limited to simple chat interactions; it can become a practical assistant for daily work.
 
-The presentation also described learning as a cycle similar to how social media works: curiosity, discovery, satisfaction, and repetition. When the brain expects a reward, it becomes easier to keep going.
+Several important components were introduced, including Quick Chat Agent for data exploration, Quick Flows for building workflows with natural language, Quick Spaces for team collaboration, and Quick Sight for creating dashboards and reports.
 
-Another idea was using a streak-style system. When people do not want to lose their progress, they are more likely to keep studying every day. This uses loss aversion to support consistency.
+From this session, attendees learned that AI assistants can reduce repetitive tasks, improve decision-making, and help both technical and non-technical users work more efficiently.
 
-### Three Practical Ways to Train the Brain for Learning
+### Amazon CloudFront and System Optimization
 
-The event introduced three simple but powerful ways to strengthen learning habits.
+The CloudFront session explained how Amazon CloudFront plays an important role in modern cloud architecture. CloudFront is not only a CDN for delivering static content, but also a foundation layer for improving performance, reliability, security, and cost efficiency.
 
-First, use the fear of losing progress in a positive way. A study streak creates a sense of ownership, and the brain tends to protect that progress.
+CloudFront helps reduce latency by caching content closer to users through global edge locations. It also reduces load on origin servers and improves the user experience for websites, APIs, and high-traffic applications.
 
-Second, divide work into very small steps. A large task can feel overwhelming, while a tiny task feels easier to begin. The session also mentioned the two-minute rule as a way to reduce unnecessary delay.
+The session also highlighted security features such as HTTPS, access control, AWS WAF, AWS Shield, signed URLs, caching policies, and origin failover. These features help systems become faster, safer, and more stable in production environments.
 
-Third, create feedback and rewards from outside sources. This can include points, XP-like systems, small personal rewards, or encouragement from other people. The aim is to make progress visible and satisfying.
+### Building UTMorpho in 36 Hours at LotusHacks
 
-### Prompt Engineering for Better AI Results
+Team VIB shared their experience building **UTMorpho** during LotusHacks within only 36 hours. Their story showed that product development does not always start with a perfect idea. Instead, it often begins with observing real problems, identifying pain points, and gradually shaping a solution.
 
-The event then moved into the topic of communicating effectively with AI. The speaker explained that AI performs better when the prompt is clear, structured, and complete.
+The team had to deal with time pressure, technical issues, task division, integration, testing, and demo preparation. This helped attendees understand that a hackathon is not just about coding quickly, but also about teamwork, product thinking, prioritization, and communication.
 
-Important parts of a strong prompt include role, instruction, context, output format, examples, and constraints. When those pieces are written clearly, AI is less likely to misunderstand the request or produce irrelevant responses.
+A key lesson from this session is that teams should focus on the core value of the product, build an MVP first, and avoid trying to implement too many features in a limited time.
 
-The session also mentioned techniques such as chain of thought, self-consistency, and tree of thought as ways to improve output quality. The key idea was that prompt design matters a lot, especially when using AI for real work.
+### Non-Determinism in LLM Outputs
 
-### AWS Demo and AI System Components
+Another important session discussed the behavior of Large Language Models. LLMs generate responses token by token based on probability, which means their outputs may not always be completely identical, even when settings appear deterministic.
 
-The session included an AWS demo that showed how multiple cloud services can come together in a practical AI application.
+The session explained that even with **temperature = 0**, outputs may still vary due to inference optimization, parallel processing, batching, or differences in infrastructure. This is an important point for developers who want to integrate LLMs into real applications.
 
-The demo used CloudFront for fast global content delivery, S3 for static storage, Cognito for authentication, API Gateway for traffic routing, Lambda for serverless backend logic, Bedrock for foundation model access, DynamoDB for fast NoSQL storage, and CloudWatch plus CloudTrail for logging and monitoring.
+The main takeaway is that AI systems should not rely only on prompts. Production systems need validation, structured outputs, fallback logic, monitoring, and repeated testing to reduce the risk of inconsistent results.
 
-This part made it clear that an AI application is not just the model. It also needs storage, authentication, backend logic, security, and observability to work properly in practice.
+### Enterprise-Grade Multi-Agent System
 
-### Mindset for IT and Technology Careers
+The final session introduced an enterprise-grade multi-agent system through a startup credit scoring case study. Instead of using a single AI agent to evaluate everything, the system used multiple agents with different responsibilities.
 
-Another major part of the event focused on mindset. The speaker explained that AI can improve productivity, but it cannot replace human thinking, judgment, or deep understanding.
+The proposed agents included:
 
-The event emphasized that foundation knowledge matters more than constantly chasing the newest technologies. During interviews, companies do not expect candidates to know everything. They care more about whether the candidate understands core ideas and can reason through problems.
+* **Financial Analyst**
+* **Market Analyst**
+* **Team Evaluator**
+* **Risk Assessor**
+* **Compliance Agent**
+* **Manager Agent**
 
-The speaker also highlighted the importance of asking "why" instead of only asking "what". Mistakes are part of learning, and integrity matters even when nobody is watching. These ideas were presented as essential qualities for anyone who wants to grow in IT.
+This model works like a virtual credit committee, where each agent focuses on a specific evaluation area. The approach improves specialization, cross-checking, auditability, and control.
 
-### Career Values and Professional Growth
-
-The session also discussed three circles of work: what we enjoy doing, what we must do, and the benefits we receive such as salary, experience, relationships, and learning opportunities.
-
-For freshers, the event stressed that attitude is often the most important hiring factor. Skills, experience, and personal potential all matter, but the right attitude can strongly influence long-term growth.
-
-The speaker encouraged students to ask more questions, think long term, and work with others on projects. These habits can strengthen leadership potential, confidence, and career readiness.
-
-### BMX: AI-Assisted Software Development Method
-
-The final part of the event introduced BMX, a structured AI-assisted software development method. The main concern was that many people use AI in a one-shot way, which can make code harder to manage and harder to modify later.
-
-BMX addresses this by splitting the work into clear roles such as Product Manager, Architect, Scrum Master, Developer, Reviewer, QA, and Test. Each role has a specific responsibility, which makes the project easier to organize.
-
-The process begins with brainstorming, then moves into requirement definition, architecture planning, task breakdown, development, review, and testing. This helps the system stay maintainable and reduces issues caused by AI hallucination or overlapping tasks.
+From this topic, attendees learned that AI in enterprise environments must not only be intelligent, but also secure, explainable, compliant, and scalable.
 
 ## Key Takeaways
 
-### Learning Motivation
+### AI Usage Mindset
 
-Learning becomes easier when the brain gets small and frequent rewards. A study streak, tiny tasks, and visible progress can help turn studying into a habit.
+AI should be used with clear context and clear goals. A good prompt needs enough background information, expected output format, and constraints. Users should not passively accept AI responses, but should verify, refine, and improve the results.
 
-### AI Prompting
+### AI Assistants and Automation
 
-Good prompts should clearly define role, instruction, context, output format, examples, and constraints. The more specific the prompt is, the more useful the AI response becomes.
+AI assistants can support practical tasks such as analyzing data, generating reports, creating dashboards, building workflows, and improving team collaboration. This shows how AI can support both technical and business users.
 
-### AI in Practice
+### Cloud Architecture and Optimization
 
-An AI product is not just the model. It also needs cloud infrastructure, authentication, APIs, logging, monitoring, and storage to be usable in real scenarios.
+CloudFront demonstrated that a good cloud system should not only run correctly, but also be fast, secure, reliable, and cost-efficient. Caching, edge locations, origin protection, and failover are important concepts for production systems.
 
-### Career Mindset
+### Product Thinking and Teamwork
 
-Foundation knowledge, integrity, curiosity, and the habit of asking why are all important for growth in IT. Attitude matters a lot, especially for freshers.
+The UTMorpho story showed that a good product starts from a real problem. In a short development timeline, teams need to focus on core features, divide tasks clearly, test continuously, and prepare a strong demo.
 
-### AI-Assisted Development
+### LLM Reliability
 
-Using AI well means structuring the work, splitting tasks into smaller pieces, and keeping human review and quality control in the loop.
+LLMs are powerful but not always fully predictable. When applying LLMs to real systems, developers need output validation, monitoring, guardrails, and fallback mechanisms to make the system more reliable.
+
+### Enterprise AI Mindset
+
+Enterprise AI systems require more than model performance. They also need security, compliance, audit trails, scalability, and operational control. Multi-agent systems are useful for complex tasks that require multiple perspectives.
 
 ## Applying to Work
 
-The lessons from this event can be applied directly to learning, project work, and future jobs.
+The knowledge from FCAJ Community Day can be applied to learning, personal projects, and real-world software development.
 
-For studying, I can use a streak system, split learning into smaller goals, and create small rewards to stay consistent. This makes it easier to avoid procrastination and build stronger habits.
+When using AI for study, coding, report writing, or system design, I should provide clearer context, including the objective, input data, expected format, and limitations. This will help AI produce more useful and accurate results.
 
-For AI work, I can improve prompt quality by adding context, examples, and constraints. That should help me get more reliable results for coding, writing, and system design tasks.
+For web or cloud projects, knowledge about Amazon CloudFront can be applied to improve website loading speed, reduce server load, protect the origin, and optimize cost. CloudFront can also be combined with HTTPS, WAF, Shield, caching policies, and origin failover for better production readiness.
 
-For cloud and software projects, I can remember that a good system needs more than AI. It also needs authentication, APIs, storage, monitoring, and clear structure.
+For teamwork and hackathon projects, I can apply the approach shared by Team VIB: start from a real problem, define the MVP, divide tasks clearly, build quickly, test frequently, and prepare a focused presentation.
 
-For career development, I can focus on fundamental knowledge, ask more questions, learn from mistakes, and work on projects with others to strengthen communication and teamwork.
+For AI-based systems, I should not depend only on prompts. It is necessary to add validation, structured output, monitoring, logging, and fallback handling to make AI applications safer and more stable.
 
 ## Personal Action Plan
 
-* Build a daily learning streak to improve consistency.
-* Practice writing prompts with clear role, context, and output format.
-* Study core cloud and software foundations instead of only chasing new tools.
-* Apply the two-minute rule to reduce procrastination.
-* Use AI in a structured workflow instead of one-shot coding.
-* Keep improving communication, teamwork, and integrity in daily work.
+* Practice writing better AI prompts with clear context, goals, constraints, and output format.
+* Apply CloudFront concepts to future web or cloud projects to improve performance and security.
+* Build a small project using AI to support document analysis, note-taking, or report generation.
+* Study more about LLM behavior, structured output, validation, and guardrails.
+* Learn more about multi-agent systems and how they can be used for complex business workflows.
+* Improve teamwork and product thinking by practicing MVP planning and demo preparation.
 
 ## Personal Reflection
 
-This event was valuable because it tied together motivation, AI usage, and career thinking in one discussion. The most memorable idea for me was that learning can be designed rather than forced.
+FCAJ Community Day was a valuable event because it connected many modern technology topics with practical use cases. The sessions helped me understand that AI and Cloud are not only theoretical concepts, but tools that can solve real problems in learning, software development, system optimization, and enterprise operations.
 
-I also found the AI prompting section very practical because it showed that results improve when the prompt is more specific. The mindset part was just as important, especially the reminder that attitude, fundamentals, and honesty matter over time.
+The most useful lesson for me was that technology must be used with the right context. AI needs clear context to produce better results, Cloud systems need proper architecture to be fast and secure, and products need to start from real user problems.
 
-After the event, I felt more motivated to study consistently, use AI more intentionally, and build software in a more organized way.
+After the event, I gained more motivation to continue learning AWS, AI, Cloud Architecture, and Software Engineering. I also realized that besides technical skills, I need to develop systems thinking, product thinking, teamwork, and continuous learning ability to grow in the technology field.
 
-> Overall, this event helped me better understand how to build learning habits, communicate with AI effectively, and develop a stronger mindset for technology work.
+> Overall, FCAJ Community Day helped me gain practical knowledge about AI, Cloud, LLMs, CloudFront, product development, and multi-agent systems. The event gave me both technical insights and motivation to continue building projects and improving my career direction in technology.

@@ -1,158 +1,151 @@
 ---
-title: "Sự kiện 2"
-date: 2026-05-09
-weight: 2
+title: "Event 2"
+date: 2026-05-23
+weight: 1
 chapter: false
-pre: " <b> 4.2. </b> "
+pre: " <b> 4.1. </b> "
 ---
 
-# Bài thu hoạch: "Làm sao để nghiện học như nghiện mạng xã hội hoặc game online"
-
-![Làm sao để nghiện học như nghiện mạng xã hội hoặc game online](/fcj-workshop-duongtin/images/4-EventParticipated/event2.jpg)
+# Bài thu hoạch: "FCAJ Community Day"
 
 ## Mục Đích Của Sự Kiện
 
-Giải thích vì sao não bộ thường ưu tiên mạng xã hội hoặc game hơn việc học, và cách dopamine, sự tò mò, cùng phần thưởng ngắn hạn ảnh hưởng đến động lực.
+Cung cấp cho người tham gia cái nhìn tổng quan về các xu hướng công nghệ hiện tại, đặc biệt là trí tuệ nhân tạo, điện toán đám mây, các mô hình ngôn ngữ lớn, hệ thống đa tác nhân và phát triển sản phẩm thực tế.
 
-Đưa ra những cách thực tế để hình thành thói quen học tốt hơn bằng việc tạo phần thưởng nhỏ, giảm trì hoãn, tận dụng tâm lý sợ mất mát và biến việc học thành hoạt động lặp lại mỗi ngày.
+Giúp người tham gia hiểu cách AI và Cloud đang được áp dụng trong học tập, phát triển phần mềm, vận hành doanh nghiệp, tối ưu hóa hệ thống và ra quyết định kinh doanh.
 
-Chỉ cách viết prompt AI hiệu quả hơn bằng cách thêm vai trò, hướng dẫn, ngữ cảnh, định dạng đầu ra, ví dụ và ràng buộc.
+Giới thiệu các cách tiếp cận thực tế để sử dụng AI hiệu quả, bao gồm cung cấp ngữ cảnh tốt hơn, xây dựng trợ lý AI, tối ưu hóa hệ thống với Amazon CloudFront và hiểu cách các LLM hoạt động trong môi trường sản xuất.
 
-Chia sẻ tư duy thực tế cho người làm IT, gồm tầm quan trọng của kiến thức nền, thói quen hỏi "why", tính chính trực, làm việc nhóm và phát triển bản thân lâu dài.
-
-Giới thiệu BMX, một phương pháp phát triển phần mềm có hỗ trợ AI, trong đó công việc được chia thành vai trò rõ ràng và các nhiệm vụ nhỏ để dễ lập kế hoạch, kiểm soát và đảm bảo chất lượng.
+Tạo cơ hội cho sinh viên, nhà phát triển và những người yêu thích công nghệ học hỏi từ các diễn giả có kinh nghiệm, kết nối với cộng đồng và có động lực để xây dựng các sản phẩm công nghệ thực tế.
 
 ## Thông Tin Chung
 
-* **Tên sự kiện:** Buổi chia sẻ về động lực học tập và năng suất với AI
-* **Thời gian:** 09:00 - 12:00, ngày 9 tháng 5 năm 2026
+* **Tên sự kiện:** FCAJ Community Day
+* **Thời gian:** 09:00, ngày 23 tháng 5 năm 2026
+* **Địa điểm:** Tầng 26, Tòa nhà Bitexco, 02 Đường Hai Triều, Phường Sài Gòn, Thành phố Hồ Chí Minh
 * **Vai trò:** Người tham dự
-* **Nội dung chính:** Động lực học tập, thói quen dopamine, kỹ thuật prompt, sử dụng AI, mindset nghề IT và phát triển phần mềm có hỗ trợ AI
 
 ## Diễn Giả / Người Trình Bày Chính
 
-* **Diễn giả chính** - Chia sẻ về động lực học tập, dopamine và xây dựng thói quen
-* **Diễn giả chính** - Chia sẻ về prompt AI và cách tương tác với AI
-* **Diễn giả chính** - Chia sẻ về mindset IT, kiến thức nền tảng và kỳ vọng nghề nghiệp
-* **Diễn giả Thảo** - Chia sẻ về phương pháp BMX trong phát triển phần mềm có hỗ trợ AI
+* **Tinh Trương** – Platform Engineer, GoTymeX
+* **Phạm Ng Hải Anh** – G-AsiaPacific Vietnam, AWS Community Builder
+* **Nguyễn Tuấn Thịnh** – DevOps Engineer, First Cloud AI Journey
+* **Team VIB** – Đội ngũ phát triển UTMorpho tại LotusHacks
+* **Đức Đào** – Solution Architect, Cloud Kinetics
+* **Vy Lam** – Senior Business Systems Analyst, VPBank
 
 ## Chủ Đề Chính & Nội Dung Học Được
 
-### Vì Sao Não Bộ Chọn Mạng Xã Hội Hoặc Game Thay Vì Học Tập
+### Context Engineering để Sử Dụng AI Tốt Hơn
 
-Buổi chia sẻ mở đầu bằng ý tưởng làm cho việc học hấp dẫn hơn, gần giống cảm giác khi dùng mạng xã hội hoặc chơi game. Diễn giả nhấn mạnh rằng nhiều người học chưa hiệu quả không phải vì lười, mà vì não bộ chưa được tạo đúng kiểu động lực.
+Một trong những thông điệp chính từ sự kiện là hiệu suất của AI phụ thuộc rất nhiều vào chất lượng ngữ cảnh do người dùng cung cấp. Trong nhiều trường hợp, AI không đưa ra câu trả lời hữu ích vì prompt quá chung chung, thiếu thông tin nền hoặc không mô tả rõ ràng đầu ra mong đợi.
 
-Mạng xã hội và game thường cho phần thưởng nhanh, phản hồi tức thì và sự tò mò liên tục về điều tiếp theo. Trái lại, việc học thường cho kết quả chậm và đòi hỏi sự tập trung trong thời gian dài. Vì vậy, não dễ nghiêng về hoạt động nào mang lại cảm giác dễ chịu và được thưởng ngay.
+Một yêu cầu tốt nên bao gồm mục tiêu, dữ liệu liên quan, các ràng buộc, định dạng đầu ra và tiêu chí đánh giá. Khi ngữ cảnh rõ ràng, AI có thể tạo ra các câu trả lời chính xác, phù hợp hơn và dễ áp dụng vào các nhiệm vụ thực tế hơn.
 
-Phiên này cũng giải thích rằng dopamine gắn rất mạnh với sự kỳ vọng về phần thưởng. Nói cách khác, động lực sẽ tốt hơn khi não chờ đợi một điều thú vị sắp tới, chứ không chỉ khi kết quả cuối cùng đã xuất hiện.
+Phiên này cũng giới thiệu ý tưởng về **Second AI Brain**, trong đó AI không chỉ được sử dụng cho các câu trả lời một lần mà còn có thể hỗ trợ tổ chức kiến thức dài hạn, phân tích tài liệu, ghi chú và hệ thống học tập cá nhân.
 
-### Phần Thưởng Nhỏ Và Thiết Kế Thói Quen
+### Trợ Lý AI Thân Thiện với Amazon Quick
 
-Một trong những ý tưởng thiết thực nhất của buổi chia sẻ là dùng các phần thưởng nhỏ để giữ cho não bộ hứng thú với việc học. Diễn giả đề xuất chia việc học thành các phiên ngắn, rồi mỗi lần hoàn thành sẽ có một cảm giác thưởng hoặc bất ngờ nhỏ.
+Phiên về Amazon Quick đã chỉ ra cách các trợ lý AI có thể hỗ trợ phân tích dữ liệu, tự động hóa quy trình, tạo báo cáo và cộng tác. AI không còn giới hạn ở các tương tác trò chuyện đơn giản; nó có thể trở thành trợ lý thực tế cho công việc hàng ngày.
 
-Buổi trình bày cũng gợi ý biến việc học thành một chu kỳ giống cách mạng xã hội vận hành: tò mò, khám phá, thỏa mãn và lặp lại. Khi não bộ luôn mong đợi phần thưởng, việc học sẽ dễ duy trì hơn.
+Một số thành phần quan trọng đã được giới thiệu, bao gồm Quick Chat Agent để khám phá dữ liệu, Quick Flows để xây dựng quy trình bằng ngôn ngữ tự nhiên, Quick Spaces để cộng tác nhóm và Quick Sight để tạo bảng điều khiển và báo cáo.
 
-Một ý tưởng quan trọng khác là áp dụng hệ thống chuỗi học. Khi không muốn mất thành quả đã tạo ra, con người thường có xu hướng duy trì việc học đều đặn hơn. Đây là cách tận dụng tâm lý sợ mất mát để tăng tính nhất quán.
+Từ phiên này, người tham dự học được rằng các trợ lý AI có thể giảm các nhiệm vụ lặp đi lặp lại, cải thiện việc ra quyết định và giúp cả người dùng kỹ thuật và không kỹ thuật làm việc hiệu quả hơn.
 
-### Ba Cách Thực Tế Để “Hack” Não Khi Học
+### Amazon CloudFront và Tối Ưu Hóa Hệ Thống
 
-Sự kiện nêu ra ba cách đơn giản nhưng rất hiệu quả để xây dựng thói quen học mạnh hơn.
+Phiên CloudFront đã giải thích cách Amazon CloudFront đóng vai trò quan trọng trong kiến trúc đám mây hiện đại. CloudFront không chỉ là một CDN để phân phối nội dung tĩnh mà còn là lớp nền tảng để cải thiện hiệu suất, độ tin cậy, bảo mật và hiệu quả chi phí.
 
-Thứ nhất, hãy tận dụng nỗi sợ mất thành quả. Việc giữ chuỗi học tạo cảm giác sở hữu, và não bộ tự nhiên sẽ muốn bảo vệ chuỗi đó.
+CloudFront giúp giảm độ trễ bằng cách lưu bộ nhớ đệm nội dung gần người dùng hơn thông qua các vị trí biên toàn cầu. Nó cũng giảm tải cho các máy chủ nguồn và cải thiện trải nghiệm người dùng cho các trang web, API và ứng dụng có lưu lượng truy cập cao.
 
-Thứ hai, chia công việc thành các phần thật nhỏ. Một nhiệm vụ lớn có thể tạo cảm giác quá tải, nhưng một việc nhỏ sẽ dễ bắt đầu hơn. Phiên này cũng nhắc đến quy tắc 2 phút như một cách giảm trì hoãn không cần thiết.
+Phiên này cũng nhấn mạnh các tính năng bảo mật như HTTPS, kiểm soát truy cập, AWS WAF, AWS Shield, URL đã ký, chính sách lưu bộ nhớ đệm và chuyển đổi dự phòng nguồn. Các tính năng này giúp hệ thống trở nên nhanh hơn, an toàn hơn và ổn định hơn trong các môi trường sản xuất.
 
-Thứ ba, tạo phản hồi và phần thưởng từ bên ngoài. Có thể là điểm số, hệ thống XP, phần thưởng cá nhân nhỏ hoặc lời động viên từ người khác. Mục tiêu là làm cho tiến bộ trở nên rõ ràng và thú vị hơn.
+### Xây Dựng UTMorpho trong 36 Giờ tại LotusHacks
 
-### Thiết Kế Prompt AI Để Có Kết Quả Tốt Hơn
+Team VIB đã chia sẻ kinh nghiệm xây dựng **UTMorpho** trong LotusHacks chỉ trong 36 giờ. Câu chuyện của họ cho thấy phát triển sản phẩm không phải lúc nào cũng bắt đầu với một ý tưởng hoàn hảo. Thay vào đó, nó thường bắt đầu bằng việc quan sát các vấn đề thực tế, xác định các điểm đau và dần dần định hình một giải pháp.
 
-Buổi chia sẻ sau đó chuyển sang cách giao tiếp hiệu quả với AI. Diễn giả giải thích rằng AI sẽ cho kết quả tốt hơn khi đầu vào rõ ràng, có cấu trúc và đầy đủ thông tin.
+Đội ngũ phải đối mặt với áp lực thời gian, các vấn đề kỹ thuật, phân chia nhiệm vụ, tích hợp, kiểm tra và chuẩn bị demo. Điều này giúp người tham dự hiểu rằng một hackathon không chỉ là về việc viết mã nhanh mà còn về làm việc nhóm, tư duy sản phẩm, ưu tiên và giao tiếp.
 
-Những thành phần quan trọng của một prompt tốt gồm vai trò, hướng dẫn, ngữ cảnh, định dạng đầu ra, ví dụ và ràng buộc. Khi các phần này được viết rõ ràng, AI ít có khả năng hiểu sai yêu cầu hoặc tạo ra câu trả lời không liên quan.
+Một bài học quan trọng từ phiên này là các đội nên tập trung vào giá trị cốt lõi của sản phẩm, xây dựng MVP trước và tránh cố gắng triển khai quá nhiều tính năng trong thời gian hạn chế.
 
-Phiên này cũng nhắc đến các kỹ thuật như chain of thought, self-consistency và tree of thought để nâng cao chất lượng đầu ra. Thông điệp chính là thiết kế prompt rất quan trọng, nhất là khi dùng AI cho công việc thực tế.
+### Không Xác Định trong Đầu Ra Của LLM
 
-### Demo AWS Và Các Thành Phần Của Một Hệ Thống AI
+Một phiên quan trọng khác đã thảo luận về hành vi của các Mô hình Ngôn ngữ Lớn. LLM tạo ra phản hồi từng token dựa trên xác suất, điều đó có nghĩa là đầu ra của chúng có thể không phải lúc nào cũng hoàn toàn giống nhau, ngay cả khi các cài đặt có vẻ xác định.
 
-Buổi chia sẻ có một phần demo trên AWS, cho thấy nhiều dịch vụ đám mây có thể phối hợp với nhau trong một ứng dụng AI thực tế.
+Phiên này giải thích rằng ngay cả với **temperature = 0**, đầu ra vẫn có thể thay đổi do tối ưu hóa suy luận, xử lý song song, xử lý theo lô hoặc sự khác biệt về cơ sở hạ tầng. Đây là một điểm quan trọng cho các nhà phát triển muốn tích hợp LLM vào các ứng dụng thực tế.
 
-Demo sử dụng CloudFront để phân phối nội dung nhanh toàn cầu, S3 để lưu trữ tĩnh, Cognito để xác thực, API Gateway để điều phối lưu lượng, Lambda cho backend serverless, Bedrock để truy cập foundation model, DynamoDB để lưu trữ NoSQL tốc độ cao, và CloudWatch cùng CloudTrail để ghi log và giám sát.
+Điều rút ra chính là các hệ thống AI không nên chỉ dựa vào các prompt. Các hệ thống sản xuất cần xác thực, đầu ra có cấu trúc, logic dự phòng, giám sát và kiểm tra lặp lại để giảm rủi ro kết quả không nhất quán.
 
-Phần này giúp thấy rõ rằng một ứng dụng AI không chỉ là mô hình. Nó còn cần lưu trữ, xác thực, logic backend, bảo mật và khả năng quan sát để hoạt động tốt trong thực tế.
+### Hệ Thống Đa Tác Nhân Cấp Doanh Nghiệp
 
-### Mindset Cho Người Làm IT Và Công Nghệ
+Phiên cuối cùng đã giới thiệu một hệ thống đa tác nhân cấp doanh nghiệp thông qua một nghiên cứu trường hợp chấm điểm tín dụng khởi nghiệp. Thay vì sử dụng một tác nhân AI duy nhất để đánh giá mọi thứ, hệ thống đã sử dụng nhiều tác nhân với các trách nhiệm khác nhau.
 
-Một phần lớn khác của sự kiện tập trung vào mindset. Diễn giả chia sẻ rằng AI có thể giúp tăng năng suất, nhưng không thể thay thế tư duy, phán đoán và hiểu biết sâu của con người.
+Các tác nhân đề xuất bao gồm:
 
-Sự kiện nhấn mạnh rằng kiến thức nền tảng quan trọng hơn việc chạy theo công nghệ mới liên tục. Khi phỏng vấn, doanh nghiệp không mong ứng viên biết tất cả. Họ quan tâm nhiều hơn đến việc ứng viên hiểu các khái niệm cốt lõi và có thể suy luận khi gặp vấn đề hay không.
+* **Financial Analyst**
+* **Market Analyst**
+* **Team Evaluator**
+* **Risk Assessor**
+* **Compliance Agent**
+* **Manager Agent**
 
-Diễn giả cũng nhấn mạnh việc hỏi "why" thay vì chỉ hỏi "what". Sai lầm là một phần của việc học, và tính chính trực rất quan trọng ngay cả khi không ai theo dõi. Những điều này được xem là phẩm chất cần có cho người muốn phát triển trong IT.
+Mô hình này hoạt động như một ủy ban tín dụng ảo, trong đó mỗi tác nhân tập trung vào một lĩnh vực đánh giá cụ thể. Cách tiếp cận này cải thiện chuyên môn hóa, kiểm tra chéo, khả năng kiểm toán và kiểm soát.
 
-### Giá Trị Nghề Nghiệp Và Phát Triển Bản Thân
-
-Buổi chia sẻ cũng nói về ba vòng tròn trong công việc: điều mình thích làm, điều mình phải làm, và các lợi ích như lương, kinh nghiệm, mối quan hệ và cơ hội học hỏi.
-
-Đối với fresher, sự kiện nhấn mạnh rằng thái độ thường là yếu tố tuyển dụng quan trọng nhất. Kỹ năng, kinh nghiệm và tiềm năng cá nhân đều quan trọng, nhưng thái độ tốt có thể tạo ra khác biệt lớn trong hành trình phát triển lâu dài.
-
-Diễn giả khuyến khích sinh viên hỏi nhiều hơn, nghĩ xa hơn và làm việc cùng người khác trong dự án. Những thói quen này giúp tăng năng lực lãnh đạo, sự tự tin và mức độ sẵn sàng cho công việc.
-
-### BMX: Phương Pháp Phát Triển Phần Mềm Có Hỗ Trợ AI
-
-Phần cuối của sự kiện giới thiệu BMX, một phương pháp phát triển phần mềm có cấu trúc và có hỗ trợ AI. Vấn đề được nêu ra là nhiều người dùng AI theo cách làm một lần rồi thôi, khiến code khó quản lý và khó chỉnh sửa về sau.
-
-BMX xử lý điều này bằng cách chia công việc thành các vai trò rõ ràng như Product Manager, Architect, Scrum Master, Developer, Reviewer, QA và Test. Mỗi vai trò có trách nhiệm riêng, giúp team tổ chức dự án mạch lạc hơn.
-
-Quy trình bắt đầu từ brainstorm, sau đó xác định yêu cầu, lập kiến trúc, chia việc, phát triển, review và kiểm thử. Cách làm này giúp hệ thống dễ bảo trì hơn và giảm lỗi do AI hallucination hoặc do các nhiệm vụ bị chồng chéo.
+Từ chủ đề này, người tham dự học được rằng AI trong môi trường doanh nghiệp không chỉ phải thông minh mà còn phải an toàn, giải thích được, tuân thủ và có thể mở rộng.
 
 ## Điều Rút Ra Chính
 
-### Động Lực Học Tập
+### Tư Duy Sử Dụng AI
 
-Việc học trở nên dễ hơn khi não bộ nhận được phần thưởng nhỏ và thường xuyên. Xây dựng chuỗi học, chia nhỏ nhiệm vụ và tạo tiến bộ nhìn thấy được có thể giúp việc học trở thành thói quen.
+AI nên được sử dụng với ngữ cảnh rõ ràng và mục tiêu rõ ràng. Một prompt tốt cần đủ thông tin nền, định dạng đầu ra mong đợi và các ràng buộc. Người dùng không nên thụ động chấp nhận phản hồi của AI mà nên xác minh, tinh chỉnh và cải thiện kết quả.
 
-### Prompt AI
+### Trợ Lý AI và Tự Động Hóa
 
-Prompt tốt cần nêu rõ vai trò, hướng dẫn, ngữ cảnh, định dạng đầu ra, ví dụ và ràng buộc. Prompt càng cụ thể thì kết quả AI càng hữu ích.
+Các trợ lý AI có thể hỗ trợ các nhiệm vụ thực tế như phân tích dữ liệu, tạo báo cáo, tạo bảng điều khiển, xây dựng quy trình và cải thiện cộng tác nhóm. Điều này cho thấy cách AI có thể hỗ trợ cả người dùng kỹ thuật và kinh doanh.
 
-### AI Trong Thực Tế
+### Kiến Trúc Đám Mây và Tối Ưu Hóa
 
-Một sản phẩm AI không chỉ là mô hình. Nó còn cần hạ tầng cloud, xác thực, API, ghi log, giám sát và lưu trữ để có thể dùng trong thực tế.
+CloudFront đã chứng minh rằng một hệ thống đám mây tốt không chỉ cần chạy chính xác mà còn phải nhanh, an toàn, đáng tin cậy và hiệu quả về chi phí. Lưu bộ nhớ đệm, các vị trí biên, bảo vệ nguồn và chuyển đổi dự phòng là những khái niệm quan trọng cho các hệ thống sản xuất.
 
-### Mindset Nghề Nghiệp
+### Tư Duy Sản Phẩm và Làm Việc Nhóm
 
-Kiến thức nền, tính chính trực, sự tò mò và thói quen hỏi tại sao là những yếu tố rất quan trọng để phát triển trong IT. Thái độ tốt đặc biệt quan trọng với fresher.
+Câu chuyện UTMorpho cho thấy một sản phẩm tốt bắt đầu từ một vấn đề thực tế. Trong một thời gian phát triển ngắn, các đội cần tập trung vào các tính năng cốt lõi, phân chia nhiệm vụ rõ ràng, kiểm tra liên tục và chuẩn bị một bài thuyết trình mạnh mẽ.
 
-### Phát Triển Có Hỗ Trợ AI
+### Độ Tin Cậy Của LLM
 
-Dùng AI hiệu quả nghĩa là cần tổ chức công việc rõ ràng, chia nhiệm vụ nhỏ và vẫn giữ con người ở vai trò kiểm tra chất lượng, ra quyết định cuối cùng.
+LLM mạnh mẽ nhưng không phải lúc nào cũng hoàn toàn có thể đoán trước được. Khi áp dụng LLM vào các hệ thống thực tế, nhà phát triển cần xác thực đầu ra, giám sát, các biện pháp bảo vệ và cơ chế dự phòng để làm cho hệ thống đáng tin cậy hơn.
+
+### Tư Duy AI Doanh Nghiệp
+
+Các hệ thống AI doanh nghiệp yêu cầu nhiều hơn là hiệu suất mô hình. Chúng cũng cần bảo mật, tuân thủ, dấu vết kiểm toán, khả năng mở rộng và kiểm soát vận hành. Các hệ thống đa tác nhân hữu ích cho các nhiệm vụ phức tạp đòi hỏi nhiều góc nhìn.
 
 ## Ứng Dụng Vào Công Việc
 
-Những ý tưởng từ sự kiện này có thể áp dụng trực tiếp vào việc học, làm project và công việc trong tương lai.
+Kiến thức từ FCAJ Community Day có thể được áp dụng vào học tập, dự án cá nhân và phát triển phần mềm thực tế.
 
-Trong học tập, tôi có thể dùng hệ thống chuỗi học, chia mục tiêu thành phần nhỏ hơn và tạo phần thưởng nhỏ để duy trì sự đều đặn. Điều này giúp giảm trì hoãn và xây dựng thói quen tốt hơn.
+Khi sử dụng AI cho việc học, mã hóa, viết báo cáo hoặc thiết kế hệ thống, tôi nên cung cấp ngữ cảnh rõ ràng hơn, bao gồm mục tiêu, dữ liệu đầu vào, định dạng mong đợi và các giới hạn. Điều này sẽ giúp AI tạo ra kết quả hữu ích và chính xác hơn.
 
-Khi làm việc với AI, tôi có thể cải thiện chất lượng prompt bằng cách thêm ngữ cảnh, ví dụ và ràng buộc. Điều đó sẽ giúp tôi nhận được kết quả ổn định hơn cho các nhiệm vụ như viết code, viết nội dung và thiết kế hệ thống.
+Đối với các dự án web hoặc đám mây, kiến thức về Amazon CloudFront có thể được áp dụng để cải thiện tốc độ tải trang web, giảm tải máy chủ, bảo vệ nguồn và tối ưu hóa chi phí. CloudFront cũng có thể được kết hợp với HTTPS, WAF, Shield, các chính sách lưu bộ nhớ đệm và chuyển đổi dự phòng nguồn để sẵn sàng sản xuất tốt hơn.
 
-Trong các dự án cloud và phần mềm, tôi cần nhớ rằng hệ thống tốt không chỉ dựa vào AI. Nó còn cần xác thực, API, lưu trữ, giám sát và cấu trúc rõ ràng.
+Đối với các dự án làm việc nhóm và hackathon, tôi có thể áp dụng cách tiếp cận được chia sẻ bởi Team VIB: bắt đầu từ một vấn đề thực tế, xác định MVP, phân chia nhiệm vụ rõ ràng, xây dựng nhanh chóng, kiểm tra thường xuyên và chuẩn bị một bài thuyết trình tập trung.
 
-Trong phát triển sự nghiệp, tôi sẽ tập trung vào kiến thức nền, đặt nhiều câu hỏi hơn, học từ sai lầm và làm project cùng người khác để rèn kỹ năng giao tiếp và teamwork.
+Đối với các hệ thống dựa trên AI, tôi không nên chỉ phụ thuộc vào các prompt. Cần phải thêm xác thực, đầu ra có cấu trúc, giám sát, ghi nhật ký và xử lý dự phòng để làm cho các ứng dụng AI an toàn và ổn định hơn.
 
 ## Kế Hoạch Hành Động Cá Nhân
 
-* Xây dựng chuỗi học mỗi ngày để tăng sự đều đặn.
-* Luyện viết prompt có vai trò, ngữ cảnh và định dạng đầu ra rõ ràng.
-* Học kỹ nền tảng cloud và phần mềm thay vì chỉ chạy theo công cụ mới.
-* Áp dụng quy tắc 2 phút để giảm trì hoãn.
-* Dùng AI trong quy trình có cấu trúc thay vì coding theo kiểu một lần.
-* Tiếp tục cải thiện giao tiếp, làm việc nhóm và tính chính trực trong công việc hằng ngày.
+* Thực hành viết các prompt AI tốt hơn với ngữ cảnh rõ ràng, mục tiêu, ràng buộc và định dạng đầu ra.
+* Áp dụng các khái niệm CloudFront vào các dự án web hoặc đám mây trong tương lai để cải thiện hiệu suất và bảo mật.
+* Xây dựng một dự án nhỏ sử dụng AI để hỗ trợ phân tích tài liệu, ghi chú hoặc tạo báo cáo.
+* Học thêm về hành vi LLM, đầu ra có cấu trúc, xác thực và các biện pháp bảo vệ.
+* Tìm hiểu thêm về các hệ thống đa tác nhân và cách chúng có thể được sử dụng cho các quy trình kinh doanh phức tạp.
+* Cải thiện làm việc nhóm và tư duy sản phẩm bằng cách thực hành lập kế hoạch MVP và chuẩn bị demo.
 
 ## Suy Ngẫm Cá Nhân
 
-Sự kiện này hữu ích vì nó kết nối động lực học tập, cách dùng AI và tư duy nghề nghiệp trong cùng một nội dung. Điều tôi nhớ nhất là việc học có thể được thiết kế chứ không chỉ bị ép buộc.
+FCAJ Community Day là một sự kiện giá trị vì nó kết nối nhiều chủ đề công nghệ hiện đại với các trường hợp sử dụng thực tế. Các phiên giúp tôi hiểu rằng AI và Cloud không chỉ là các khái niệm lý thuyết mà còn là những công cụ có thể giải quyết các vấn đề thực tế trong học tập, phát triển phần mềm, tối ưu hóa hệ thống và vận hành doanh nghiệp.
 
-Phần nói về prompt AI cũng rất thực tế vì nó cho thấy chỉ cần viết cụ thể hơn là kết quả đã có thể tốt hơn. Phần mindset cũng quan trọng không kém, nhất là lời nhắc rằng thái độ, nền tảng và sự trung thực đều rất cần thiết về lâu dài.
+Bài học hữu ích nhất đối với tôi là công nghệ phải được sử dụng với ngữ cảnh phù hợp. AI cần ngữ cảnh rõ ràng để tạo ra kết quả tốt hơn, hệ thống Cloud cần kiến trúc phù hợp để nhanh và an toàn, và sản phẩm cần bắt đầu từ các vấn đề người dùng thực tế.
 
-Sau sự kiện, tôi có thêm động lực để học đều hơn, dùng AI có chủ đích hơn và xây dựng phần mềm theo cách có tổ chức hơn.
+Sau sự kiện, tôi có thêm động lực để tiếp tục học AWS, AI, Kiến Trúc Đám Mây và Kỹ Thuật Phần Mềm. Tôi cũng nhận ra rằng ngoài kỹ năng kỹ thuật, tôi cần phát triển tư duy hệ thống, tư duy sản phẩm, làm việc nhóm và khả năng học tập liên tục để phát triển trong lĩnh vực công nghệ.
 
-> Tổng thể, sự kiện này giúp tôi hiểu rõ hơn cách xây dựng thói quen học tập, giao tiếp hiệu quả với AI và phát triển một mindset vững hơn cho công việc công nghệ.
+> Tổng thể, FCAJ Community Day giúp tôi có được kiến thức thực tế về AI, Cloud, LLM, CloudFront, phát triển sản phẩm và các hệ thống đa tác nhân. Sự kiện đã cho tôi cả những hiểu biết kỹ thuật và động lực để tiếp tục xây dựng các dự án và cải thiện hướng nghề nghiệp của mình trong công nghệ.
