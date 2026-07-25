@@ -1,12 +1,17 @@
 ---
 title: "Event 2"
 date: 2026-05-23
-weight: 1
+weight: 2
 chapter: false
-pre: " <b> 4.1. </b> "
+pre: " <b> 4.2. </b> "
 ---
 
 # Bài thu hoạch: "FCAJ Community Day"
+
+## Hình Ảnh Sự Kiện
+
+<!-- Nếu muốn dùng ảnh khác, hãy thay đường dẫn bên dưới -->
+![Ảnh sự kiện FCAJ Community Day](/fcj-workshop-duongtin/images/4-EventParticipated/event2.jpg)
 
 ## Mục Đích Của Sự Kiện
 

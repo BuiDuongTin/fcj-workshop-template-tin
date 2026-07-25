@@ -1,12 +1,17 @@
 ---
 title: "Event 2"
 date: 2026-05-23
-weight: 1
+weight: 2
 chapter: false
-pre: " <b> 4.1. </b> "
+pre: " <b> 4.2. </b> "
 ---
 
 # Summary Report: "FCAJ Community Day"
+
+## Event Image
+
+<!-- Replace this image path with your own if you want a different photo -->
+![FCAJ Community Day event image](/fcj-workshop-duongtin/images/4-EventParticipated/event2.jpg)
 
 ## Purpose of the Event
 
