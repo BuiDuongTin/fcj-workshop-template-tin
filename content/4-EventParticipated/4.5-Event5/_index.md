@@ -23,13 +23,10 @@ Participants are invited to join the sharing session, hear how the teams turned 
 * **Role:** Participant
 * **Main topics:** AI product design, multi-channel chatbot ordering, business strategy analysis, IT architecture automation, public security monitoring, and AML detection
 
-## Event Images
-
-![Event banner or main photo](/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg)
-
-## Team and Project Images
-
-![Team photo or project screenshot](/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg)
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg" alt="Event banner or main photo" style="width:48%; max-width:520px; height:auto;" />
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg" alt="Team photo or project screenshot" style="width:48%; max-width:520px; height:auto;" />
+</div>
 
 ## Speakers / Key Contributors
 

@@ -23,13 +23,10 @@ Người tham dự được mời đến buổi chia sẻ để lắng nghe hàn
 * **Vai trò:** Người tham dự
 * **Nội dung chính:** Thiết kế sản phẩm AI, chatbot đa kênh đặt món, phân tích chiến lược doanh nghiệp, tự động hóa kiến trúc IT, giám sát an ninh công cộng và phát hiện AML
 
-## Ảnh Của Sự Kiện
-
-![Ảnh banner hoặc ảnh chính của sự kiện](/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg)
-
-## Ảnh Nhóm Và Dự Án
-
-![Ảnh nhóm hoặc ảnh chụp màn hình dự án](/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg)
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg" alt="Ảnh banner hoặc ảnh chính của sự kiện" style="width:48%; max-width:520px; height:auto;" />
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg" alt="Ảnh nhóm hoặc ảnh chụp màn hình dự án" style="width:48%; max-width:520px; height:auto;" />
+</div>
 
 ## Diễn Giả / Người Đóng Góp Chính
 
