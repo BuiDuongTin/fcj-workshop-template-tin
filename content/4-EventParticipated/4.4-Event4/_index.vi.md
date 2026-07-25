@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.4. </b> "
 ---
 
-# Tóm tắt sự kiện "AWS Study Tour - Swinburne Vietnam x AWS Vietnam"
+# Bài thu hoạch: "AWS Study Tour - Swinburne Vietnam x AWS Vietnam"
 
 ![AWS Study Tour - Swinburne Vietnam x AWS Vietnam](/fcj-workshop-duongtin/images/4-EventParticipated/event4.2.jpg)
 
