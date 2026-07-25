@@ -1,12 +1,14 @@
 ---
 title: "Sự kiện 2"
-date: 2026-06-27
+date: 2026-05-09
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
 # Bài thu hoạch: "Làm sao để nghiện học như nghiện mạng xã hội hoặc game online"
+
+![Làm sao để nghiện học như nghiện mạng xã hội hoặc game online](/fcj-workshop-duongtin/images/4-EventParticipated/event2.jpg)
 
 ## Mục Đích Của Sự Kiện
 

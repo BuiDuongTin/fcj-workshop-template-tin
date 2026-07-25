@@ -1,12 +1,14 @@
 ---
 title: "Event 2"
-date: 2026-06-27
+date: 2026-05-09
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
 # Summary Report: "How to Make Learning Addictive Like Social Media or Games"
+
+![How to Make Learning Addictive Like Social Media or Games](/fcj-workshop-duongtin/images/4-EventParticipated/event2.jpg)
 
 ## Purpose of the Event
 
