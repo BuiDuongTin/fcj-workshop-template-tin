@@ -1,12 +1,12 @@
 ---
-title: "FCAJ x Agentic AI Build Week: Show Up. Build. Pitch. WIN!"
+title: "Event 5"
 date: 2026-07-25
 weight: 5
 chapter: false
 pre: " <b> 4.5. </b> "
 ---
 
-# Summary Report: "FCAJ x Agentic AI Build Week: Show Up. Build. Pitch. WIN!"
+# "FCAJ x Agentic AI Build Week: Show Up. Build. Pitch. WIN!" Event Summary
 
 ## Purpose of the Event
 
@@ -24,8 +24,8 @@ Participants are invited to join the sharing session, hear how the teams turned 
 * **Main topics:** AI product design, multi-channel chatbot ordering, business strategy analysis, IT architecture automation, public security monitoring, and AML detection
 
 <div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
-  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg" alt="Event banner or main photo" style="width:48%; max-width:520px; height:auto;" />
-  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg" alt="Team photo or project screenshot" style="width:48%; max-width:520px; height:auto;" />
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg" alt="Event banner or main photo" style="width:48%; max-width:520px; height:360px; object-fit:cover;" />
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg" alt="Team photo or project screenshot" style="width:48%; max-width:520px; height:360px; object-fit:cover;" />
 </div>
 
 ## Speakers / Key Contributors

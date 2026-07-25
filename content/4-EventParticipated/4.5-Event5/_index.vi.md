@@ -1,12 +1,12 @@
 ---
-title: "FCAJ x Agentic AI Build Week: Show Up. Build. Pitch. WIN!"
+title: "Event 5"
 date: 2026-07-25
 weight: 5
 chapter: false
 pre: " <b> 4.5. </b> "
 ---
 
-# Bài thu hoạch: "FCAJ x Agentic AI Build Week: Show Up. Build. Pitch. WIN!"
+# "FCAJ x Agentic AI Build Week: Show Up. Build. Pitch. WIN!" - Tóm tắt sự kiện
 
 ## Mục Tiêu Của Sự Kiện
 
@@ -24,8 +24,8 @@ Người tham dự được mời đến buổi chia sẻ để lắng nghe hàn
 * **Nội dung chính:** Thiết kế sản phẩm AI, chatbot đa kênh đặt món, phân tích chiến lược doanh nghiệp, tự động hóa kiến trúc IT, giám sát an ninh công cộng và phát hiện AML
 
 <div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
-  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg" alt="Ảnh banner hoặc ảnh chính của sự kiện" style="width:48%; max-width:520px; height:auto;" />
-  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg" alt="Ảnh nhóm hoặc ảnh chụp màn hình dự án" style="width:48%; max-width:520px; height:auto;" />
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-1.jpg" alt="Ảnh banner hoặc ảnh chính của sự kiện" style="width:48%; max-width:520px; height:360px; object-fit:cover;" />
+  <img src="/fcj-workshop-duongtin/images/4-EventParticipated/event5-2.jpg" alt="Ảnh nhóm hoặc ảnh chụp màn hình dự án" style="width:48%; max-width:520px; height:360px; object-fit:cover;" />
 </div>
 
 ## Diễn Giả / Người Đóng Góp Chính
